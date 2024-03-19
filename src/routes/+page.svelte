@@ -1,7 +1,7 @@
 <div class="container h-full mx-auto flex justify-center items-center">
 	<div class="space-y-5 mt-5">
 		<h1>Welcome to my New Media Portfolio</h1>
-		<h3>Im a <span class="rainbow">Computer Science</span> student with a background in Web Development</h3>
+		<h3>I am <span class="rainbow">Computer Science</span> student with a background in Web Development</h3>
 		<hr/>
 		<h4>Start by exploring:</h4>
 		<ul>

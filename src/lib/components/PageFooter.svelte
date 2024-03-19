@@ -12,13 +12,13 @@
     }
 </script>
 
-<hr class="!border-t-2 bg-neutral-100 flex justify-center content-center">
-<div class="container p-16 flex justify-center content-center ">
+<hr class="!border-t-2 bg-neutral-100 flex justify-center content-center mt-12">
+<div class="container p-8 flex justify-center content-center mx-auto">
     <div class="container lg:flex gap-4 justify-center">
-        <div class="w-[40rem] flex gap-4">
+        <div class="flex gap-4 justify-center content-center ">
             {#each balls as ball (ball)}
                 {#key ball}
-                <div class="flex-col flex">
+                <div class="flex-col flex mx-auto">
                     <div class="my-auto rounded-full justify-center content-center bg-black"
                          style="width: {ball.size}px; height: {ball.size}px;"></div>
                 </div>
